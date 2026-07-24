@@ -1,0 +1,32 @@
+[
+    {
+        "question": "((d^2y)/(dx^2)) + y = 0 সমীকরণের সাধারণ সমাধান কোনটি?",
+        "options": ["A sin x + B cos x", "A e^x + B e^{-x}", "A sin x + B sin x", "A cos x + B cos x"],
+        "correct_answer": 0,
+        "explanation": "এটি দ্বিতীয় ক্রমের সমঘাতী সমীকরণ, যার চরিত্রগত সমীকরণ m²+1=0 → m=±i, তাই সমাধান A sin x + B cos x।"
+    },
+    {
+        "question": "((dy)/(dx)) = x সমীকরণের সমাধান কোনটি?",
+        "options": ["x²/2 + C", "x² + C", "x + C", "2x² + C"],
+        "correct_answer": 0,
+        "explanation": "উভয় পক্ষে ইন্টিগ্রেট করলে ∫dy = ∫x dx → y = x²/2 + C।"
+    },
+    {
+        "question": "((dy)/(dx)) + y = 0 সমীকরণের সমাধান কোনটি?",
+        "options": ["y = e^{-x}", "y = e^{x}", "y = sin x", "y = cos x"],
+        "correct_answer": 0,
+        "explanation": "এটি পরিবর্তনশীল পৃথকীকরণযোগ্য: dy/y = -dx → ln y = -x + C → y = e^{-x+C} = C e^{-x}।"
+    },
+    {
+        "question": "একটি ব্যবকলনীয় সমীকরণের 'ক্রম' (Order) বলতে কী বোঝায়?",
+        "options": ["সর্বোচ্চ ডেরিভেটিভের ক্রম", "সর্বনিম্ন ডেরিভেটিভের ক্রম", "চলকের মোট সংখ্যা", "পদগুলোর যোগফল"],
+        "correct_answer": 0,
+        "explanation": "ক্রম হলো সমীকরণে উপস্থিত সর্বোচ্চ ডেরিভেটিভের ক্রম (যেমন y''' থাকলে ক্রম 3)।"
+    },
+    {
+        "question": "((d²y)/(dx²)) - 3((dy)/(dx)) + 2y = 0 সমীকরণের সহায়ক সমীকরণ (Auxiliary equation) কোনটি?",
+        "options": ["m² - 3m + 2 = 0", "m² + 3m + 2 = 0", "m² - 3m = 0", "m² + 2 = 0"],
+        "correct_answer": 0,
+        "explanation": "y=e^{mx} বসালে পাই m² e^{mx} - 3m e^{mx} + 2 e^{mx}=0 → m² - 3m + 2 = 0।"
+    }
+]

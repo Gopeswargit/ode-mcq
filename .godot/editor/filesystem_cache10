@@ -1,0 +1,9 @@
+188240d5d1e2ee21c8e3a7f5b6c387e8
+::res://::1784911854
+export_presets.cfg::TextFile::-1::1784911854::0::1::::<><><>0<>0<><>::
+index.apple-touch-icon.png::CompressedTexture2D::1600886821901675482::1784911853::1784911872::1::::<><><>0<>0<>595efbe8b0fa479de98e84ea5c7ef6d7<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+index.icon.png::CompressedTexture2D::2090450189970796101::1784911853::1784911872::1::::<><><>0<>0<>e707d3dd4a7601da97c48827176276dc<>res://.godot/imported/index.icon.png-5665fad188e88d1e882500a4376bfe02.ctex::
+index.png::CompressedTexture2D::7592815770295398390::1784911853::1784911872::1::::<><><>0<>0<>b54c80ce73aeb19ac0e2039d67cf25af<>res://.godot/imported/index.png-5122033cac747157decad52589e2295c.ctex::
+Main.tscn::PackedScene::8025418656106188607::1784911149::0::1::::<><><>0<>0<><>::uid://cpeov5fxercpw::::res://node.gd
+node.gd::GDScript::5834820657019217796::1784911129::0::1::::<>Node<><>0<>0<><>::
+questions.json::JSON::-1::1784910513::0::1::::<><><>0<>0<><>::
