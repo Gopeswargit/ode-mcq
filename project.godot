@@ -14,6 +14,10 @@ config/name="ODE MCQ (সাধারণ ব্যবকলনীয় সম�
 run/main_scene="res://Main.tscn"
 config/features=PackedStringArray("4.7")
 
+[gui]
+
+theme/custom_font="uid://dowtseogd6mad"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
